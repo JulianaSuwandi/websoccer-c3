@@ -20,7 +20,7 @@ export const SEASON_SCHEDULE:Schedule[]=[
     notes:'Pertandingan aman'}
 ]
 
-export const TEAM:Team[] = [
+export const TEAMS:Team[] = [
     {id:1,name:'EVOS',type:'Over 30'},
     {id:2,name:'Persipon',type:'Over 30'},
     {id:3,name:'Persib',type:'Over 30'},
